@@ -1,3 +1,34 @@
+# _TogethDAO_
+
+[Demo Video](https://youtu.be/TlvsHnNld5k)
+
+[Demo Site](http://203.195.224.157:3000/)
+
+TogethDAO will build wallet-based chatroom with xmtp and leverage the lit protocol to control access for DAO members.
+
+## Build based on [xmtp example app](https://github.com/xmtp/example-chat-react).
+
+## Build with [lit protocol](https://github.com/LIT-Protocol).
+
+## Installation
+
+```
+npm install
+```
+
+## Run the developer server
+
+```
+npm run dev
+```
+
+Open http://localhost:3000 with your browser to see the application.
+
+
+<br/>
+<br/>
+
+
 # React Chat Example
 
 ![Test](https://github.com/xmtp/example-chat-react/actions/workflows/test.yml/badge.svg)
